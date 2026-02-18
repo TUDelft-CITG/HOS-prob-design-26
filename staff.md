@@ -7,7 +7,7 @@ description: A listing of all the course staff members.
 
 # Instructors
 
-A number of instructors are involved in this unit. Your primary point of contact is Robert Lanzafame.
+A number of instructors are involved in this unit. Your primary point of contact is Patricia Mares Nasarre.
 ## Instructors
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
