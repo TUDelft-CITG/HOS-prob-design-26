@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+# These are from MUDE/website-23 (builds on TU Delft server)
+# Version spec is removed because dependency with `github-pages` could not be resolved.
+gem "jekyll"
+gem "just-the-docs"
+gem "webrick"
+
+# This is from the Gemfile in this repo
+gem 'github-pages', group: :jekyll_plugins
