@@ -47,17 +47,17 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   CIEM4210:
-    - 'https://brightspace.tudelft.nl/d2l/home/594923'
+    - 'https://brightspace.tudelft.nl/d2l/home/774436'
   CIEM4220:
-    - 'https://brightspace.tudelft.nl/d2l/home/594925'
+    - 'https://brightspace.tudelft.nl/d2l/home/774437'
   CIEM4230:
-    - 'https://brightspace.tudelft.nl/d2l/home/594927'
+    - 'https://brightspace.tudelft.nl/d2l/home/774438'
   CM Website:
     - 'https://tudelft-citg.github.io/HOS-comp-mod-25/'
-  Online Textbook:
-    - 'https://teachbooks.tudelft.nl/risk-reliability/intro.html'
+  # Online Textbook:
+  #   - 'https://teachbooks.tudelft.nl/risk-reliability/intro.html'
   Workbook:
-    - 'https://tudelft-citg.github.io/HOS-workbook/2025/intro.html'
+    - 'https://tudelft-citg.github.io/HOS-workbook/2026/intro.html'
 aux_links_new_tab: true
 footer_content: 'Robert Lanzafame, Patricia Mares Nasarre &copy; 2026 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
