@@ -2,7 +2,7 @@
 name: Robert Lanzafame
 role: Instructor
 # pronouns: Primary Instructor
-email: Component Reliability
+email: Honorary Instructor
 photo: robert.JPG
 ---
 
