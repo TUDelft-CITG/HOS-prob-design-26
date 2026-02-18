@@ -17,7 +17,7 @@ title: CIEM42X0-PD
 tagline: CIEM42X0-PD Probabilistic Design
 description: Hydraulic and Offshore Structures track, Civil Engineering Program at TU Delft.
 author: Robert Lanzafame and Patricia Mares Nasarre
-baseurl: '/HOS-prob-design-25' # the subpath of your site, e.g. /blog
+baseurl: '/HOS-prob-design-26' # the subpath of your site, e.g. /blog
 url: 'https://tudelft-citg.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico:: "favicon.ico"
 exclude:
