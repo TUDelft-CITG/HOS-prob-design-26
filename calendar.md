@@ -6,6 +6,7 @@ description: Listing of course modules and topics.
 has_children: false
 ---
 # Calendar
+
 | Week   | Date  | Time | Content |
 | --- | ---  | --- | --- |
 | 1   | 20/4  | 15.45 - 17.30h | Introduction & recap |
