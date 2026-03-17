@@ -57,7 +57,7 @@ aux_links:
   # Online Textbook:
   #   - 'https://teachbooks.tudelft.nl/risk-reliability/intro.html'
   Workbook:
-    - 'https://tudelft-citg.github.io/HOS-workbook/2026/intro.html'
+    - 'https://tudelft-citg.github.io/HOS-prob-design-workbook/2026/intro.html'
 aux_links_new_tab: true
 footer_content: 'Robert Lanzafame, Patricia Mares Nasarre &copy; 2026 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
