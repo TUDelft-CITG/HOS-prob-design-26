@@ -23,12 +23,3 @@ has_children: false
 | 8   | 9/6  | 15.45 - 16.30h | Q&A |
 
 Exercises with *: graded for students from Dams, Dikes and Breakwaters.
-
-<table>
-  <tr>
-    <th>Week</th><th>Date</th><th>Time</th><th>Content</th>
-  </tr>
-  <tr>
-    <td>1</td><td>20/4</td><td>15.45 - 17.30h</td><td>Introduction & recap</td>
-  </tr>
-</table>
