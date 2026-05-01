@@ -1,7 +1,7 @@
 ---
 title: "Week 2: Extreme Value Analysis workshop"
 week: 2
-date: 2025-05-01
+date: 2026-05-01
 ---
 
 <!-- <a href="" target="_blank">link</a> -->
